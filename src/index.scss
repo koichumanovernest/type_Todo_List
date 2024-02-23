@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Protest+Riot&display=swap");
+
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+html {
+	background: url("https://avatars.mds.yandex.net/get-mpic/5139700/img_id5081924835628249624.jpeg/orig")
+		fixed;
+	background-size: cover;
+	background-position: center;
+	height: 700px;
+}
+body {
+	font-family: "Pacifico", cursive;
+	font-weight: 400;
+	font-style: normal;
+	font-family: "Protest Riot", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
